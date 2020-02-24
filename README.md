@@ -19,4 +19,4 @@ Follow the steps to activate developer mode on your Roku device. Save the IP add
 
 Enter the IP address you saved in a web browser, log-in with your username rokudev and the password you set during the developer mode process.
 
-Take  the .zip files and upload/install to the developer application installer. Your Roku device will load the sample channel and you can preview what your Roku Channel will look like when it is installed as a private or public Roku Channel.
+Take  the .zip files and upload/install to the developer application installer. Your Roku device will load the sample channel and you can preview what your Roku Channel will look like when it is installed as a private Roku Channel screensaver.  Also you can edit the zip file as required.
